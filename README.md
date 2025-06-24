@@ -1,6 +1,6 @@
-# 🎮 Memory Game
+# 🧠 Memory Game
 
-## 🧠 Overview:
+## 🎮 Overview:
 
 This **Memory Game** is a browser-based card matching game where players flip over pairs of cards to find matching symbols. Built using HTML, CSS, and JavaScript (DOM Manipulation), this game emphasizes interactive UI design and client-side logic without the need for any frameworks or external libraries.
 
