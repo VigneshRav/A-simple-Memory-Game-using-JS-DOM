@@ -56,7 +56,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(122, 3, 69);
+  background-color: sienna;
 }
 
 footer #game-info {
